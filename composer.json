@@ -1,0 +1,17 @@
+{
+    "name": "turkeyfried/us-state-lists",
+    "description": "PHP Class that contains state codes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Pabon",
+            "email": "turkeyfried@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "usStateCodes\\": "src/"
+        }
+    },
+    "version": "1.0.0"
+}
