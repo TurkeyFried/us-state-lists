@@ -15,6 +15,5 @@
         "psr-4": {
             "usStateCodes\\": "src/"
         }
-    },
-    "version": "0.0.2"
+    }
 }
