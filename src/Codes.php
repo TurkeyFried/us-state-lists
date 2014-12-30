@@ -69,8 +69,8 @@ class Codes {
         'WI'=>'Wisconsin',
         'WY'=>'Wyoming',
         'AE'=>'Armed Forces Europe, the Middle East, and Canada',
-        'AP'=>'Armed Forces Pacific'
-        'AA'=>'Armed Forces Americas (except Canada)',
+        'AP'=>'Armed Forces Pacific',
+        'AA'=>'Armed Forces Americas (except Canada)'
     );
 
 }
